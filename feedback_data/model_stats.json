@@ -1,0 +1,32 @@
+{
+  "logistic_regression": {
+    "total_predictions": 218,
+    "weighted_score": 16.175041,
+    "weighted_accuracy": 0.5554194417671655
+  },
+  "naive_bayes": {
+    "total_predictions": 218,
+    "weighted_score": 22.601094999999997,
+    "weighted_accuracy": 0.5771352475509959
+  },
+  "random_forest": {
+    "total_predictions": 218,
+    "weighted_score": 12.236229000000002,
+    "weighted_accuracy": 0.5419979285074873
+  },
+  "svm": {
+    "total_predictions": 218,
+    "weighted_score": 12.056538,
+    "weighted_accuracy": 0.5413840236927844
+  },
+  "svm_tuned": {
+    "total_predictions": 218,
+    "weighted_score": 5.2939769999999955,
+    "weighted_accuracy": 0.5182051722729438
+  },
+  "xgboost": {
+    "total_predictions": 218,
+    "weighted_score": 5.373500000000001,
+    "weighted_accuracy": 0.5184783924054727
+  }
+}
