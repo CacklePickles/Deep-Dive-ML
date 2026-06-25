@@ -35,12 +35,5 @@ frontend/         Web UI
 models/           Trained model files (.pkl)
 preprocessing/    TF-IDF vectorizer and URL scaler
 feedback_data/    Model weights and stats from user feedback
-email_text.csv    Training dataset
-view_database.py  CLI to inspect the analyses database
-```
-
-## View database
-
-```bash
-python view_database.py --help
+data/             SQLite database (created at runtime)
 ```
