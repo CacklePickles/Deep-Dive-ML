@@ -162,24 +162,6 @@ Deep_Dive_ML/
 | Frontend | HTML5, CSS3, JavaScript (Fetch API) |
 | Визуализация (обучение) | matplotlib, seaborn (зависимости в requirements) |
 
-## Screenshots
 
-Скриншоты интерфейса можно добавить в каталог `docs/screenshots/` и вставить ссылки ниже.
-
-| Экран | Описание |
-|-------|----------|
-| Главная | поле ввода текста и кнопка **Analyze** |
-| Результат | итоговый вердикт (Phishing / Safe) и confidence |
-| Ансамбль | weighted voting по 6 моделям |
-| Feedback | кнопки Phishing / Safe / Not Sure |
-
-Пример разметки после добавления файлов:
-
-```markdown
-![Analyze screen](docs/screenshots/analyze.png)
-![Results screen](docs/screenshots/results.png)
-```
-
----
 
 **Deep Dive ML** — учебный/демонстрационный проект по ML для детекции фишинга с веб-интерфейсом и ансамблевым inference.
